@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchstringify",
+        "uuid": 17771640,
+        "checksum": "6vij1b"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
